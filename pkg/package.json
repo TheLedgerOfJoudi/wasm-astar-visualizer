@@ -1,0 +1,16 @@
+{
+  "name": "wasm-astar-visualizer",
+  "collaborators": [
+    "TheLedgerOfJoudi <hadi.mohammad.saleh1@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "wasm_astar_visualizer_bg.wasm",
+    "wasm_astar_visualizer.js",
+    "wasm_astar_visualizer_bg.js",
+    "wasm_astar_visualizer.d.ts"
+  ],
+  "module": "wasm_astar_visualizer.js",
+  "types": "wasm_astar_visualizer.d.ts",
+  "sideEffects": false
+}
